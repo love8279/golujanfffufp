@@ -10,7 +10,8 @@ from math import ceil
 from utils import progress_bar
 from pyrogram import Client, filters
 from pyrogram.types import Message
-from vars import * from db import Database
+from vars import *
+from db import Database
 
 # --- API CONFIGURATION ---
 # Teri Vercel API ka base link
